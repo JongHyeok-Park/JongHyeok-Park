@@ -1,6 +1,7 @@
 # PROFILE
 ### Jonghyeok Park⚡
 Student at Kyungpook National University
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHyeok-Park&show_icons=true&theme=highcontrast)
 
 ### Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
