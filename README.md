@@ -5,6 +5,8 @@ Student at Kyungpook National University
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhp1124)](https://solved.ac/jhp1124)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyeok-Park&layout=compact&theme=dark)
+
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
