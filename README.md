@@ -2,6 +2,7 @@
 Student at Kyungpook National University
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHyeok-Park&show_icons=true&theme=highcontrast)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhp1124)](https://solved.ac/jhp1124)
 
 
 ## Skills
