@@ -1,5 +1,5 @@
-## Jonghyeok Park⚡
-### Student at Kyungpook National University
+### Jonghyeok Park⚡
+#### Student at Kyungpook National University
 
 <!--
 **JongHyeok-Park/JongHyeok-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
