@@ -2,9 +2,8 @@
 
 ### JongHyeok Park 🔥 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhp1124)](https://solved.ac/jhp1124)
 
-Student at Kyungpook National University  
-Front-end Developer  
-<jhpmuscle@gmail.com>  
+- <jhpmuscle@gmail.com> 
+- Developer at **TiumLab**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyeok-Park&layout=compact&theme=dark)
 
@@ -19,7 +18,8 @@ Front-end Developer
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><br>  
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">  
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/SvelteKit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/redux toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
